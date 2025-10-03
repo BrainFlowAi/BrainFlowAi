@@ -25,9 +25,9 @@ We appreciate every contribution. Happy contributing! 🚀
 **Best Practices** 
 ------------------
 
-* Ensure your code is well-documented and follows our coding standards.
+* Ensure your code meet good-best coding standards.
 * Write clear, concise commit messages.
-* Test your changes thoroughly before submitting a pull request.
+* Test your changes before submitting a pull request.
 
 **Thank You!** 
 ---------------

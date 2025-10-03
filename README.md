@@ -61,7 +61,15 @@ We welcome all kinds of contributions:
 - Hardware integration
 - Issue reporting & testing
 
-Please see the [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
+Please see the [CONTRIBUTING.md](./docs/CONTRIBUTING.md) for guidelines.
+
+
+-----
+
+🧱 Project Architecture
+
+Please see the [ARCHITECTURE.md](./docs/ARCHITECTURE.md) for guidelines.
+
 
 ---
 
@@ -78,4 +86,3 @@ Thank you to every contributor, researcher, and believer in a future where *tech
 ---
 
 *Let's connect minds. Let AI speak for the silent brain.*
-
